@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @landonbeard
-- 👀 I’m interested in many different languages, 3D modeling as well as game development 
+- 👀 I’m interested in many different languages (comptuer and human) as well as anything that has a processor  
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me via LinkedIn https://www.linkedin.com/in/landon-beard-b0247a6
