@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @landonbeard 
+- 👋 Hi, I’m @landonbeard you can find my updated Github @ https://github.com/landon-beard
 - 📫 How to reach me via LinkedIn https://www.linkedin.com/in/landon-beard-b0247a6
